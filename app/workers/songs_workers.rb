@@ -8,3 +8,4 @@ class SongsWorker
       Song.create(title: song[0], artist: artist)
     end
   end
+end
